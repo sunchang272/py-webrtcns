@@ -7,6 +7,8 @@ This is a python interface to the WebRTC noise suppression (NS).
 
 ```shell
 git clone https://github.com/sunchang272/py-webrtcns.git
+cd py-webrtcns
+python setup.py install
 ```
 
 2. Create a ``Ns`` object:
